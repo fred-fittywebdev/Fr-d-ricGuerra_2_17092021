@@ -1,0 +1,16 @@
+/* Les icônes proviennent de la bibliothèque Font Awesome. Les couleurs de la charte sont le bleu #0065FC, et sa version plus claire #DEEBFF ainsi que le gris pour le fond #F2F2F2.
+La police du site est Raleway.
+  */
+
+/* ------ reset css ------ */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ------ variable css ------ */
+
+/* ------ global css ------ */
